@@ -13,20 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Claire's Research Website
+email: shiye2015@u.northwestern.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome! I am a Ph.D. candidate at CIERA/Northwestern University. I use supercomputers to model globular clusters, an  d study the dynamical evolution of compact objects within. Specifically, I simulate the formation and evolution of ne  utron stars and pulsars in globular clusters.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.23.0
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -58,13 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Claire Shi Ye"
+  avatar : "/assets/images/Ye_2019.jpg"
+  bio    : "Ph.D. candidate at CIERA/Northwestern University"
   links:
-    - label: "Website"
+    - label: "CIERA Page"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://ciera.northwestern.edu/directory/shi-claire-ye/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
