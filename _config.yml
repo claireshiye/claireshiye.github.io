@@ -13,10 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Claire's Research Website
-email: shiye2015@u.northwestern.edu
+title: "Claire Shi Ye"
+title_separator: "-"
+name: "Claire Shi Ye"
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome! I am a Ph.D. candidate at CIERA/Northwestern University. I use supercomputers to model globular clusters, an  d study the dynamical evolution of compact objects within. Specifically, I simulate the formation and evolution of ne  utron stars and pulsars in globular clusters.
+  "Claire's Research Page"
+url: https://claireshiye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # the subpath of your site, e.g. "/blog"
+repository: claireshiye/claireshiye.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png" 
+email: shiye2015@u.northwestern.edu
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
@@ -64,7 +70,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://ciera.northwestern.edu/directory/shi-claire-ye/"
     - label: "Google Scholar"
-      icon: "fab fa-graduation-cap"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=tIT6dj4AAAAJ&hl=en"
     #- label: "GitHub"
     #  icon: "fab fa-fw fa-github"
