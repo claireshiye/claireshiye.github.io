@@ -55,7 +55,6 @@ K. Breivik, S. Coughlin, M. Zevin, C. Rodriguez, K. Kremer, __C. S. Ye__ et al. 
 
 1. GW190412 as a Third-generation Black Hole Merger from a Super Star Cluster<br>
 \* C. Rodriguez et al. 2020, [ApJL, 896, L10](https://ui.adsabs.harvard.edu/abs/2020ApJ...896L..10R/abstract)
---->
 
- 
 \* co-authors are in alphabetical order
+--->
