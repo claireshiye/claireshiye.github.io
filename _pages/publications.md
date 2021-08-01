@@ -15,8 +15,9 @@ __C. S. Ye__, K. Kremer, S. Chatterjee, C. Rodriguez, F. Rasio 2019, [ApJ, 877, 
 * How Black Holes Shape Globular Clusters: Modeling NGC 3201<br>
 K. Kremer, __C. S. Ye__, S. Chatterjee, C. Rodriguez, F. Rasio 2018, [ApJL, 855, L15](https://ui.adsabs.harvard.edu/abs/2018ApJ...855L..15K)
 
+For a full list of my papers, see [ADS Library](https://ui.adsabs.harvard.edu/user/libraries/ThMDd8GpQ6a_fIzd89jadg)
 
-<---
+<!---
 1. Modeling Dense Star Clusters in the Milky Way and Beyond with the Cluster Monte Carlo Code<br>
 \* C. Rodriguez et al. 2021, [arXiv:2106.02643](https://ui.adsabs.harvard.edu/abs/2021arXiv210602643R/abstract) 
 1. Matching Globular Cluster Models to Observations<br>
