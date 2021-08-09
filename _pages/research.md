@@ -6,8 +6,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: ../assets/images/47Tuc.jpeg
-  actions:
-    - label: "Download"
-      url: "#test-link"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+feature_row_left:
+  - image_path: ../assets/images/ppdot.png
+    title: "Left aligned placeholder 1"
+    excerpt: "Left-aligned image centered with"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
+{% include feature_row id="feature_row1" type="left" %}
