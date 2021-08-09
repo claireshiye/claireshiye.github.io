@@ -14,4 +14,6 @@ feature_row_left:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-{% include feature_row id="feature_row1" type="left" %}
+say something about my research here
+
+{% include feature_row id="feature_row_left" type="left" %}
