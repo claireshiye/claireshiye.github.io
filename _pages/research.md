@@ -3,11 +3,9 @@ title: "Research"
 layout: splash
 permalink: /research/
 header:
-  <!--
   overlay_color: "#000"
   overlay_filter: "0.5"
-  -->
-  overlay_image: /assets/images/47Tuc.jpeg
+  overlay_image: /assets/images/coffee.jpeg
   actions:
     - label: "Download"
       url: "#test-link"
