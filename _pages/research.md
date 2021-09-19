@@ -17,21 +17,24 @@ The compact objects (black holes, neutron stars and white dwarf) are dynamically
 -->
 
 This coupling leads to an anti-correlation between the number of millisecond pulsars and number of black holes in globular clusters. 
-<img align="right" src="../assets/images/nbh_nmsp.png" alt="" width="500"/>
+<img align="right" src="../assets/images/nbh_nmsp.png" alt="" width="400"/>
 <!--
 ![image-left](../assets/images/nbh_nmsp.png){: .align-left}{:style="border: 0px solid black; padding: 10px"}
 -->
 
 ## Neutron Star Binary Mergers
 Although globular clusters can produce many exotic objects, the neutron star binary merger rates from globular cluster are very low. 
-<img align="left" src="../assets/images/nbh_nmsp.png" alt="" width="500"/>
+<img align="left" src="../assets/images/merger_rate.png" alt="" width="400"/>
 
 <!--
 ![image-right](../assets/images/merger_rate.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}
 -->
 
 ## Matching Pulsar Observations
+<img align="right" src="../assets/images/ppdot.png" alt="" width="400"/>
+<!--
 ![image-right](../assets/images/ppdot.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}
+-->
 
 <!--
 47Tuc.jpeg           bio-photo.jpg        coffee.jpeg          merger_rate.png      ppdot.png
