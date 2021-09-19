@@ -11,8 +11,7 @@ Globular clusters are one of the densest and most dynamically active stellar sys
 
 ## Millisecond Pulsar and Black Hole Dynamics
 The compact objects (black holes, neutron stars and white dwarf) are dynamically coupled in globular clusters. In this figure I showed the 2-dimentional projections of two cluster simulations. The one on the left contains more than 100 black holes, and the one on the right has one black hole. Through dynamical encounters, a large number of blakc holes can prevent other compact objects (neutron stars in this case) from sliding towards the cluster center, where it is the densest within a globular cluster. This coupling leads to an anti-correlation between the number of millisecond pulsars and number of black holes in globular clusters. 
-![image-right](../assets/images/nbh_nmsp.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}
-<img src="../assets/images/nbh_nmsp.png" width="400">
+![image-right](../assets/images/nbh_nmsp.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}{:height="50%" width="50%"}
 
 ## Neutron Star Binary Mergers
 Although globular clusters can produce many exotic objects, the neutron star binary merger rates from globular cluster are very low. 
