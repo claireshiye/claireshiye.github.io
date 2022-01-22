@@ -26,7 +26,9 @@ email: shiye2015@u.northwestern.edu
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
-search: true
+search: false
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
