@@ -134,7 +134,7 @@
   }
 
   img {
-    max-width: 110px;
+    max-width: 175px;       /*CSY: changes from 110 to 175*/
     border-radius: 50%;
 
     @include breakpoint($large) {

@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Claire's Research Page"
+title: "Claire's Webpage"
 title_separator: "-"
 name: "Claire Shi Ye"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Claire's Research Page"
+  "Claire's Webpage"
 url: https://claireshiye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: claireshiye/claireshiye.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -75,7 +75,7 @@ author:
       url: "https://scholar.google.com/citations?user=tIT6dj4AAAAJ&hl=en"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "shiye2015@u.northwestern.edu"
+      url: "mailto:shiye2015@u.northwestern.edu"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"

@@ -3,6 +3,9 @@ permalink: /publications/
 title: "Publications"
 ---
 ### First- and Second-Authour Papers:
+* Compact Object Modeling in the Globular Cluster 47 Tucanae<br>
+__C. S. Ye__, K. Kremer, C. Rodriguez et al. 2021, [arXiv:2110.05495](https://arxiv.org/abs/2110.05495)
+
 * Modeling Dense Star Clusters in the Milky Way and Beyond with the CMC Cluster Catalog<br>
 K. Kremer, __C. S. Ye__, N. Rui, N. Weatherford et al. 2020, [ApJS, 247, 4](https://ui.adsabs.harvard.edu/abs/2020ApJS..247...48K)
 
@@ -15,10 +18,10 @@ __C. S. Ye__, K. Kremer, S. Chatterjee, C. Rodriguez, F. Rasio 2019, [ApJ, 877, 
 * How Black Holes Shape Globular Clusters: Modeling NGC 3201<br>
 K. Kremer, __C. S. Ye__, S. Chatterjee, C. Rodriguez, F. Rasio 2018, [ApJL, 855, L15](https://ui.adsabs.harvard.edu/abs/2018ApJ...855L..15K)
 
-<!--
-For a full list of my papers, see [ADS Library](https://ui.adsabs.harvard.edu/user/libraries/ThMDd8GpQ6a_fIzd89jadg)
--->
 
+For a full list of my publications, see [NASA/ADS Library](https://ui.adsabs.harvard.edu/user/libraries/ThMDd8GpQ6a_fIzd89jadg)
+
+<!--
 1. Modeling Dense Star Clusters in the Milky Way and Beyond with the Cluster Monte Carlo Code<br>
 \* C. Rodriguez, N. Weatherford, S. Coughlin, ..., __C. S. Ye__ et al. 2021, [arXiv:2106.02643](https://ui.adsabs.harvard.edu/abs/2021arXiv210602643R/abstract) 
 1. Matching Globular Cluster Models to Observations<br>
@@ -70,3 +73,4 @@ K. Kremer, S. Chatterjee, __C. S. Ye__ et al. 2019, [ApJ, 871, 38](https://ui.ad
 \* C. Rodriguez, P. Amaro-Seoane, ..., __C. S. Ye__ et al. 2018, [PRD, 98, 123005](https://ui.adsabs.harvard.edu/abs/2018PhRvD..98l3005R/abstract)
 
 \* co-authors are in alphabetical order
+-->
