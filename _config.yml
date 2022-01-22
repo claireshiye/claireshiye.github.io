@@ -69,6 +69,8 @@ author:
   avatar : "/assets/images/Ye_2019.jpg"
   bio    : "Astrophysics Ph.D. candidate at CIERA/Northwestern University"
   links:
+    - label: "Evanston, IL"
+      icon: "fas fa-map-marker-alt"
     - label: "CIERA Page"
       icon: "fas fa-fw fa-link"
       url: "https://ciera.northwestern.edu/directory/shi-claire-ye/"
