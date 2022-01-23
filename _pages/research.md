@@ -22,7 +22,7 @@ The compact objects (black holes, neutron stars and white dwarfs) in globular cl
 ## Compact Objects in the Globular Cluster 47 Tucanae
 ![image-left](../assets/images/psr_al.png){: .align-left}{:style="border: 0px solid black; padding: 10px"}{:height="25%" width="25%"}
 47 Tucanae is one of the most massive and densest globular clusters in the Milky Way and is very computationally challenging to simulate. Observations have shown that this cluster contains large populations of compact objects, so it is one of the best observational target to study globular cluster dynamics and compact object evolution. I show that by using the Cluster Monte Carlo code, I was able to achieve a best-fit 47 Tuc model that matches various observations simultaneously, including the surface brightness profile,  the velocity dispersion profile, pulsar accelerations, and the number of different types of compact objects <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv211005495Y/abstract">(Ye+2021)</a>. 
-<br/><br/>
+&emsp;  <!--(4 x &nbsp;)-->
 
 ## Millisecond Pulsars in Globular Clusters
 ![image-right](../assets/images/ppdot.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}{:height="30%" width="30%"}
