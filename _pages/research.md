@@ -19,12 +19,15 @@ The compact objects (black holes, neutron stars and white dwarfs) in globular cl
 ![image-right](../assets/images/merger_rate.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}
 -->
 
+## Compact Objects in the Globular Cluster 47 Tucanae
+![image-left](../assets/images/psr_al.png){: .align-left}{:style="border: 0px solid black; padding: 10px"}{:height="30%" width="30%"}
+47 Tucanae is one of the most massive and densest globular clusters in the Milky Way and is very computationally challenging to simulate. Observations have shown that this cluster contains large populations of compact objects, so it is one of the best observational target to study globular cluster dynamics and compact object evolution. I show that by using the Cluster Monte Carlo code, I was able to achieve a best-fit 47 Tuc model that matches various observations simultaneously, including the surface brightness profile,  the velocity dispersion profile, pulsar accelerations, and the number of different types of compact objects <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv211005495Y/abstract">(Ye+2021)</a>. 
+
 ## Millisecond Pulsars in Globular Clusters
-![image-left](../assets/images/ppdot.png){: .align-left}{:style="border: 0px solid black; padding: 10px"}{:height="50%" width="50%"}
+![image-left](../assets/images/ppdot.png){: .align-left}{:style="border: 0px solid black; padding: 10px"}{:height="30%" width="30%"}
 It is well known that globular clusters produce millisecond pulsars at a specific abundance 10 times larger than the Galactic field due to the high density and large stellar encounter rate of the cluster environment. However, the high uncertainty of pulsar formation and evolution, and the chaotic dynamical environment of globular clusters make it especially challenging to model pulsars in globular clusters. Using Monte Carlo N-body cluster simulations, I showed that dynamical interactions greatly enhance millisecond pulsar formation in globular clusters, and pulsars are spun-up to millisecond periods through extended periods of mass trasfer in binaries. The spin periods and spin-dwon rates (which can be used to derive dipole magnetic fields) of simulated pulsars largely match the observed pulsars in globular clusters shown in the figure on the left <a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...877..122Y/abstract">(Ye+2019)</a>.  
 
-## Compact Objects in the Globular Cluster 47 TUcanae
 <!--
 47Tuc.jpeg           bio-photo.jpg        coffee.jpeg          merger_rate.png      ppdot.png
-Ye_2019.jpg          cc_noncc_2dproj.png  gc_mass_rcrh.png     nbh_nmsp.png
+Ye_2019.jpg          cc_noncc_2dproj.png  gc_mass_rcrh.png     nbh_nmsp.png         psr_al.png
 -->
