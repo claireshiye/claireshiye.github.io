@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
-### First- and Second-Authour Papers:
+### First- and Second-Author Papers:
 * Compact Object Modeling in the Globular Cluster 47 Tucanae<br>
 __C. S. Ye__, K. Kremer, C. Rodriguez et al. 2021, [arXiv:2110.05495](https://arxiv.org/abs/2110.05495)
 
