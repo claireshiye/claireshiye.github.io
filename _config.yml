@@ -22,7 +22,7 @@ url: https://claireshiye.github.io # the base hostname & protocol for your site 
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: claireshiye/claireshiye.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png" 
-email: shiye2015@u.northwestern.edu
+email: claireshiye@cita.utoronto.ca
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
@@ -67,19 +67,19 @@ plugins:
 author:
   name   : "Claire Shi Ye"
   avatar : "/assets/images/Ye_2019.jpg"
-  bio    : "Astrophysics Ph.D. candidate at CIERA/Northwestern University"
+  bio    : "CITA Postdoctoral Fellow"
   links:
-    - label: "Evanston, IL"
+    - label: "Toronto"
       icon: "fas fa-map-marker-alt"
-    - label: "CIERA Page"
+    - label: "CITA Page"
       icon: "fas fa-fw fa-link"
-      url: "https://ciera.northwestern.edu/directory/shi-claire-ye/"
+      url: "https://www.cita.utoronto.ca/people/senior-research-associates-post-doctoral-fellows/"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=tIT6dj4AAAAJ&hl=en"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:shiye2015@u.northwestern.edu"
+      url: "mailto:claireshiye@cita.utoronto.ca"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"

@@ -3,8 +3,14 @@ permalink: /publications/
 title: "Publications"
 ---
 ### First- and Second-Author Papers:
+* Millisecond Pulsars in Dense Star Clusters: Evolution, Scaling Relations, and the Galactic-Center Gamma-ray Excess<br>
+__C. S. Ye__ \& G. Fragione 2022, [ApJ, 940, 162](https://ui.adsabs.harvard.edu/abs/2022arXiv220703504Y/abstract)
+
+* Formation of Low-mass Black Holes and Single Millisecond Pulsars in Globular Clusters<br>
+K. Kremer, __C. S. Ye__, F. Kıroğlu, et al. 2022, [ApJL, 934, L1](https://ui.adsabs.harvard.edu/abs/2022ApJ...934L...1K/abstract)
+
 * Compact Object Modeling in the Globular Cluster 47 Tucanae<br>
-__C. S. Ye__, K. Kremer, C. Rodriguez et al. 2021, [arXiv:2110.05495](https://arxiv.org/abs/2110.05495)
+__C. S. Ye__, K. Kremer, C. Rodriguez et al. 2021, [ApJ, 931, 84](https://ui.adsabs.harvard.edu/abs/2022ApJ...931...84Y/abstract)
 
 * Modeling Dense Star Clusters in the Milky Way and Beyond with the CMC Cluster Catalog<br>
 K. Kremer, __C. S. Ye__, N. Rui, N. Weatherford et al. 2020, [ApJS, 247, 4](https://ui.adsabs.harvard.edu/abs/2020ApJS..247...48K)
