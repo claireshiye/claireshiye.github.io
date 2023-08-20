@@ -3,6 +3,12 @@ permalink: /publications/
 title: "Publications"
 ---
 ### First- and Second-Author Papers:
+0. Single Millisecond Pulsars from Dynamical Interaction Processes in Dense Star Clusters<br>
+__C. S. Ye__, K. Kremer, S. Ransom, F. Rasio 2023, [arXiv:2307.15740](https://ui.adsabs.harvard.edu/abs/2023arXiv230715740Y/abstract)
+
+0. On the Tidal Capture of White Dwarfs by Intermediate-mass Black Holes in Dense Stellar Environments<br>
+__C. S. Ye__, G. Fragione, R. Perna 2023, [ApJ, 953, 141](https://ui.adsabs.harvard.edu/abs/2023ApJ...953..141Y/abstract)
+
 0. Millisecond Pulsars in Dense Star Clusters: Evolution, Scaling Relations, and the Galactic-Center Gamma-ray Excess<br>
 __C. S. Ye__ & G. Fragione 2022, [ApJ, 940, 162](https://ui.adsabs.harvard.edu/abs/2022arXiv220703504Y/abstract)
 
