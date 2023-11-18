@@ -3,6 +3,9 @@ permalink: /publications/
 title: "Publications"
 ---
 ### First- and Second-Author Papers:
+0. The dominant mechanism(s) for populating the outskirts of star clusters with neutron star binaries<br>
+N. Leigh, __C. S. Ye__, S. Grondin et al. 2023, [arXiv:2309.13122](https://ui.adsabs.harvard.edu/abs/2023arXiv230913122L/abstract)
+
 0. Single Millisecond Pulsars from Dynamical Interaction Processes in Dense Star Clusters<br>
 __C. S. Ye__, K. Kremer, S. Ransom, F. Rasio 2023, [arXiv:2307.15740](https://ui.adsabs.harvard.edu/abs/2023arXiv230715740Y/abstract)
 
