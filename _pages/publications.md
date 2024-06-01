@@ -3,11 +3,14 @@ permalink: /publications/
 title: "Publications"
 ---
 ### First- and Second-Author Papers:
+0. The Redshift Evolution of the Binary Black Hole Mass Distribution from Dense Star Clusters<br>
+__C. S. Ye__, M. Fishbach 2024, [ApJ, 967, 62](https://ui.adsabs.harvard.edu/abs/2024ApJ...967...62Y/abstract)
+
 0. The dominant mechanism(s) for populating the outskirts of star clusters with neutron star binaries<br>
-N. Leigh, __C. S. Ye__, S. Grondin et al. 2023, [arXiv:2309.13122](https://ui.adsabs.harvard.edu/abs/2023arXiv230913122L/abstract)
+N. Leigh, __C. S. Ye__, S. Grondin et al. 2024, [MNRAS, 527, 6913](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.6913L/abstract)
 
 0. Single Millisecond Pulsars from Dynamical Interaction Processes in Dense Star Clusters<br>
-__C. S. Ye__, K. Kremer, S. Ransom, F. Rasio 2023, [arXiv:2307.15740](https://ui.adsabs.harvard.edu/abs/2023arXiv230715740Y/abstract)
+__C. S. Ye__, K. Kremer, S. Ransom, F. Rasio 2024, [ApJ, 961, 98](https://ui.adsabs.harvard.edu/abs/2024ApJ...961...98Y/abstract)
 
 0. On the Tidal Capture of White Dwarfs by Intermediate-mass Black Holes in Dense Stellar Environments<br>
 __C. S. Ye__, G. Fragione, R. Perna 2023, [ApJ, 953, 141](https://ui.adsabs.harvard.edu/abs/2023ApJ...953..141Y/abstract)
