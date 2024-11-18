@@ -3,6 +3,15 @@ permalink: /publications/
 title: "Publications"
 ---
 ### First- and Second-Author Papers:
+0. Predicting the rate of fast radio bursts in globular clusters from binary black hole observations<br>
+A. Rao (undergrad student), __C. S. Ye__, M. Fishbach 2024, [arXiv:2409.20564](https://ui.adsabs.harvard.edu/abs/2024arXiv240920564R/abstract)
+
+0. Can slow pulsars in Milky Way globular clusters form via partial recycling?<br>
+K. Kremer, __C. S. Ye__, C. Heinke et al. 2024, [arXiv:2409.07527](https://ui.adsabs.harvard.edu/abs/2024arXiv240907527K/abstract)
+
+0. Lower-mass-gap Black Holes in Dense Star Clusters<br>
+__C. S. Ye__, K. Kremer, S. Ransom, F. Rasio 2024, [ApJ, 975, 77](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...77Y/abstract)
+
 0. The Redshift Evolution of the Binary Black Hole Mass Distribution from Dense Star Clusters<br>
 __C. S. Ye__, M. Fishbach 2024, [ApJ, 967, 62](https://ui.adsabs.harvard.edu/abs/2024ApJ...967...62Y/abstract)
 
