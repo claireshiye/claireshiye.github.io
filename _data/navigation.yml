@@ -1,8 +1,6 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "test"
-    url: /research_updated/
   - title: "Publications"
     url: /publications/
   - title: "CV"
