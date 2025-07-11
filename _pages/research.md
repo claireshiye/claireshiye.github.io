@@ -11,12 +11,15 @@ header:
 Globular clusters are one of the densest and most dynamically active stellar systems in the Universe. They are groups of ~ 1 million stars bound together by gravity, constituting spherical systems a hundred thousand times more dense than a typical galaxy. Thanks to this dense environment which leads to frequent gravitational encounters between stars, globular clusters are very efficient in producing exotic objects such as millisecond pulsars, low-mass X-ray binaries and binary black hole mergers.
 -->
 
-[Gravitational Wave Sources](#GW)
-[Millisecond Pulsars](#PSR)
-[Fast Radio Bursts](#FRB)
+[Gravitational Wave Sources](#GW)<br>
+[Millisecond Pulsars](#PSR)<br>
+[Fast Radio Bursts](#FRB)<br>
 
 
-## Neutron Star and Millisecond Pulsar Dynamics
+# Gravitational Wave Sources
+{: #GW}
+
+# Neutron Star and Millisecond Pulsar Dynamics
 {: #PSR}
 <!--![image-right](../assets/images/nbh_nmsp.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}{:height="30%" width="30%"}-->
 ![image-right](../assets/images/cc_noncc_2dproj.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}{:height="50%" width="50%"}
