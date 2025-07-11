@@ -2,6 +2,8 @@
 permalink: /publications/
 title: "Publications"
 ---
+For a full list of my publications, see [NASA/ADS Library](https://ui.adsabs.harvard.edu/user/libraries/ThMDd8GpQ6a_fIzd89jadg)
+
 ### First- and Second-Author Papers:
 0. Mass Distribution of Binary Black Hole Mergers from Young and Old Dense Star Clusters<br>
 __C. S. Ye__, M. Fishbach, K. Kremer, M. Reina-Campos 2025, [arXiv:2507.07183](https://ui.adsabs.harvard.edu/abs/2025arXiv250707183Y/abstract)
@@ -52,7 +54,6 @@ __C. S. Ye__, K. Kremer, S. Chatterjee, C. Rodriguez, F. Rasio 2019, [ApJ, 877, 
 K. Kremer, __C. S. Ye__, S. Chatterjee, C. Rodriguez, F. Rasio 2018, [ApJL, 855, L15](https://ui.adsabs.harvard.edu/abs/2018ApJ...855L..15K)
 {: reversed="reversed"}
 
-For a full list of my publications, see [NASA/ADS Library](https://ui.adsabs.harvard.edu/user/libraries/ThMDd8GpQ6a_fIzd89jadg)
 
 <!--
 1. Modeling Dense Star Clusters in the Milky Way and Beyond with the Cluster Monte Carlo Code<br>
