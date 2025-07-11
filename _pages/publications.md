@@ -3,11 +3,17 @@ permalink: /publications/
 title: "Publications"
 ---
 ### First- and Second-Author Papers:
+0. Mass Distribution of Binary Black Hole Mergers from Young and Old Dense Star Clusters<br>
+__C. S. Ye__, M. Fishbach, K. Kremer, M. Reina-Campos 2025, [arXiv:2507.07183](https://ui.adsabs.harvard.edu/abs/2025arXiv250707183Y/abstract)
+
+0. Gravitational-wave kicks impact spins of black holes from hierarchical mergers<br>
+A. Borchers (grad student), __C. S. Ye__, M. Fishbach 2025, [arXiv:2503.21278](https://ui.adsabs.harvard.edu/abs/2025arXiv250321278B/abstract)
+
 0. Predicting the rate of fast radio bursts in globular clusters from binary black hole observations<br>
-A. Rao (undergrad student), __C. S. Ye__, M. Fishbach 2024, [arXiv:2409.20564](https://ui.adsabs.harvard.edu/abs/2024arXiv240920564R/abstract)
+A. Rao (undergrad student), __C. S. Ye__, M. Fishbach 2024, [ApJL, 979, L12](https://ui.adsabs.harvard.edu/abs/2025ApJ...979L..12R/abstract)
 
 0. Can slow pulsars in Milky Way globular clusters form via partial recycling?<br>
-K. Kremer, __C. S. Ye__, C. Heinke et al. 2024, [arXiv:2409.07527](https://ui.adsabs.harvard.edu/abs/2024arXiv240907527K/abstract)
+K. Kremer, __C. S. Ye__, C. Heinke et al. 2024, [ApJL, 977, L42](https://ui.adsabs.harvard.edu/abs/2024ApJ...977L..42K/abstract)
 
 0. Lower-mass-gap Black Holes in Dense Star Clusters<br>
 __C. S. Ye__, K. Kremer, S. Ransom, F. Rasio 2024, [ApJ, 975, 77](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...77Y/abstract)
