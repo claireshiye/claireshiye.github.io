@@ -9,7 +9,7 @@ For a full list of my publications, see [NASA/ADS Library](https://ui.adsabs.har
 __C. S. Ye__, M. Fishbach, K. Kremer, M. Reina-Campos 2025, [arXiv:2507.07183](https://ui.adsabs.harvard.edu/abs/2025arXiv250707183Y/abstract)
 
 0. Gravitational-wave kicks impact spins of black holes from hierarchical mergers<br>
-A. Borchers (grad student), __C. S. Ye__, M. Fishbach 2025, [arXiv:2503.21278](https://ui.adsabs.harvard.edu/abs/2025arXiv250321278B/abstract)
+A. Borchers (grad student), __C. S. Ye__, M. Fishbach 2025, [ApJ, 987, 146](https://ui.adsabs.harvard.edu/abs/2025ApJ...987..146B/abstract)
 
 0. Predicting the rate of fast radio bursts in globular clusters from binary black hole observations<br>
 A. Rao (undergrad student), __C. S. Ye__, M. Fishbach 2024, [ApJL, 979, L12](https://ui.adsabs.harvard.edu/abs/2025ApJ...979L..12R/abstract)
