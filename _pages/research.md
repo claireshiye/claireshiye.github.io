@@ -40,7 +40,7 @@ The compact objects (black holes, neutron stars and white dwarfs) in globular cl
 ![image-right](../assets/images/merger_rate.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}
 -->
 
-<div style="border-bottom: 2px solid #ccc; padding-top: 10px; margin-bottom: 20px;"></div>
+<!-- <div style="border-bottom: 2px solid #ccc; padding-top: 10px; margin-bottom: 20px;"></div> -->
 
 
 ### Single Millisecond Pulsars
