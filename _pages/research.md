@@ -28,19 +28,20 @@ Gravitational waves have opened a new window into the Universe. Understanding th
 
 <hr style="border: none; height: 5px; background-color: #f0f0f0; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
 
-<div style="border-bottom: 2px solid #ccc; padding-top: 10px; margin-bottom: 20px;"></div>
-
 
 # Neutron Star and Millisecond Pulsar Dynamics
 {: #PSR}
 <!--![image-right](../assets/images/nbh_nmsp.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}{:height="30%" width="30%"}-->
 ![image-right](../assets/images/cc_noncc_2dproj.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}{:height="50%" width="50%"}
-The compact objects (black holes, neutron stars and white dwarfs) in globular clusters are dynamically coupled. Due to mass segregation, black holes dominate the core of many globular clusters. Gravitational encounters within black holes and between black holes and other stars have significant effects on the evolution of other compact objects and their host clusters. In the figure below I show 2-dimentional projections of two typical globular clusters from simulations. The one on the left contains more than 100 black holes, and the one on the right has only one black hole. We can see that the positions of the neutron stars related to the center of their host clusters depend on the number/mass of black holes in the clusters. This coupling leads to many interesting results such as the anti-correlation between the numbers of millisecond pulsars and black holes in globular clusters <a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...877..122Y/abstract">(Ye+2019)</a>, and the low merger rate of double neutron star and neutron star-black hole binaries from globular clusters <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...888L..10Y/abstract">(Ye+2020)</a>.
+The compact objects (black holes, neutron stars and white dwarfs) in globular clusters are dynamically coupled. Due to mass segregation, black holes dominate the core of many globular clusters. Gravitational encounters within black holes and between black holes and other stars have significant effects on the evolution of other compact objects and their host clusters. In the figure below I show 2-dimentional projections of two typical globular clusters from simulations. The one on the left contains more than 100 black holes, and the one on the right has only one black hole. We can see that the positions of the neutron stars related to the center of their host clusters depend on the number/mass of black holes in the clusters. This coupling leads to many interesting results such as the anti-correlation between the numbers of millisecond pulsars and black holes in globular clusters <a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...877..122Y/abstract">(Ye+2019)</a>, and the low merger rate of double neutron star and neutron star-black hole binaries from globular clusters <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...888L..10Y/abstract">(Ye+2020)</a>.<br>
 <!--<img align="center" src="../assets/images/cc_noncc_2dproj.png" alt="" width="1000"/>-->
 <!--<img align="left" src="../assets/images/merger_rate.png" alt="" width="400"/>-->
 <!--
 ![image-right](../assets/images/merger_rate.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}
 -->
+
+<div style="border-bottom: 2px solid #ccc; padding-top: 10px; margin-bottom: 20px;"></div>
+
 
 ### Single Millisecond Pulsars
 
