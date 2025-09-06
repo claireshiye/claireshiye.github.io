@@ -26,6 +26,11 @@ Gravitational waves have opened a new window into the Universe. Understanding th
   ✨ &nbsp; &nbsp; ✨ &nbsp; &nbsp; ✨
 </div>
 
+<hr style="border: none; height: 5px; background-color: #f0f0f0; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+
+<div style="border-bottom: 2px solid #ccc; padding-top: 10px; margin-bottom: 20px;"></div>
+
+
 # Neutron Star and Millisecond Pulsar Dynamics
 {: #PSR}
 <!--![image-right](../assets/images/nbh_nmsp.png){: .align-right}{:style="border: 0px solid black; padding: 10px"}{:height="30%" width="30%"}-->
