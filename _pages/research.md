@@ -18,9 +18,26 @@ Globular clusters are one of the densest and most dynamically active stellar sys
 
 # Gravitational Wave Sources
 {: #GW}
-Gravitational waves have opened a new window into the Universe. Understanding their origins is one of the most exciting challenges in modern astronomy. Most of the gravitational waves detected so far by the LIGO/Virgo/KAGRA collaboration come from merging binary black holes. Dense star clusters--young massive clusters and old globular clusters--are especially efficient at producing these mergers. Close gravitational encounters in such environments can reproduce the overall observed distribution of merger rates across black hole masses <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250707183Y/abstract">(Ye+, arXiv:2507.07183)</a>. Looking ahead, next-generation gravitational-wave detectors will probe much higher redshifts, offering powerful constraints on the cosmic evolution of binary black hole mergers <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...967...62Y/abstract">(Ye+2024)</a>. ![image-right](../assets/images/R_z.jpg){: .align-right}{:style="border: 0px solid black; padding: 10px"}{:height="30%" width="30%"}
-![image-center](../assets/images/bh_mass_distr.jpg){: .align-center}{:style="border: 0px solid black; padding: 10px"}{:height="30%" width="30%"} 
+![image-right](../assets/images/R_z.jpg){: .align-right}{:style="border: 0px solid black; padding: 10px"}{:height="30%" width="30%"}
+Gravitational waves have opened a new window into the Universe. Understanding their origins is one of the most exciting challenges in modern astronomy. Most of the gravitational waves detected so far by the LIGO/Virgo/KAGRA collaboration come from merging binary black holes. Dense star clusters--young massive clusters and old globular clusters--are especially efficient at producing these mergers. Close gravitational encounters in such environments can reproduce the overall observed distribution of merger rates across black hole masses <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250707183Y/abstract">(Ye+, arXiv:2507.07183)</a>. Looking ahead, next-generation gravitational-wave detectors will probe much higher redshifts, offering powerful constraints on the cosmic evolution of binary black hole mergers <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...967...62Y/abstract">(Ye+2024)</a>.
+![image-center](../assets/images/bh_mass_distr.jpg){: .align-center}{:style="border: 0px solid black; padding: 10px"}{:height="50%" width="50%"} 
+<br>
 
+body {
+    --hr-line-offset: 25%;
+    --hr-color: lightsalmon;
+}
+
+:root hr {
+    border-image-slice: 1;
+    border-image-source: linear-gradient(
+        to right,
+        transparent,
+        var(--hr-color) calc(50% - var(--hr-line-offset)),
+        var(--hr-color) calc(50% + var(--hr-line-offset)),
+        transparent
+    );
+}
 
 # Neutron Star and Millisecond Pulsar Dynamics
 {: #PSR}
