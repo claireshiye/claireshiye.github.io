@@ -22,10 +22,10 @@ Globular clusters are one of the densest and most dynamically active stellar sys
 <!--![image-right](../assets/images/R_z.jpg){: .align-right}{:style="border: 0px solid black; padding: 10px"}{:height="30%" width="30%"}-->
 Gravitational waves have opened a new window into the Universe. Understanding their origins is one of the most exciting challenges in modern astronomy. Most of the gravitational waves detected so far by the LIGO/Virgo/KAGRA collaboration come from merging binary black holes. Dense star clusters--young massive clusters and old globular clusters--are especially efficient at producing these mergers. Close gravitational encounters in such environments can reproduce the overall observed distribution of merger rates across black hole masses <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250707183Y/abstract">(Ye+, arXiv:2507.07183)</a>. Looking ahead, next-generation gravitational-wave detectors will probe much higher redshifts, offering powerful constraints on the cosmic evolution of binary black hole mergers <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...967...62Y/abstract">(Ye+2024)</a>.
 ![image-center](../assets/images/bh_mass_distr_3d.jpg){: .align-center}{:style="border: 0px solid black; padding: 10px"}{:height="50%" width="50%"} 
-<br>
 
-![image-right](../assets/images/strain_imbh_3d.jpg){: .align-right}{:style="border: 0px solid black; padding: 10px"}{:height="30%" width="30%"}
+![image-right](../assets/images/strain_imbh_3d.jpg){: .align-right}{:style="border: 0px solid black; padding: 10px"}{:height="25%" width="25%"}
 The inspiral of stellar-mass compact objects into central massive black holes also generates gravitational waves, which will be detectable with space-based observatories such as LISA. Scheduled to launch in about a decade, LISA will probe central massive black holes that are potential building blocks of supermassive black holes. For example, the inspiral of white dwarfs into central massive black holes in dense stellar systems could produce gravitational wave signals "visible" to LISA from distance of up to ~100 Mpc <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...953..141Y/abstract">(Ye+2023)</a>.  
+<br>
 
 <div style="text-align: center; font-size: 24px; margin: 20px 0;">
   ✨ &nbsp; &nbsp; ✨ &nbsp; &nbsp; ✨
@@ -51,7 +51,7 @@ The compact objects (black holes, neutron stars and white dwarfs) in globular cl
 ### Single Millisecond Pulsars
 
 ### Simulating Pulsars and Compact Objects in the Globular Cluster 47 Tucanae
-![image-left](../assets/images/psr_al_3d.jpg){: .align-left}{:style="border: 0px solid black; padding: 10px"}{:height="30%" width="30%"}
+![image-left](../assets/images/psr_al_3d.jpg){: .align-left}{:style="border: 0px solid black; padding: 10px"}{:height="27%" width="27%"}
 47 Tucanae is one of the most massive and densest globular clusters in the Milky Way and is very computationally challenging to simulate. Observations have shown that this cluster contains large populations of compact objects, so it is one of the best observational target to study globular cluster dynamics and compact object evolution. I show that by using the Cluster Monte Carlo code, I was able to achieve a best-fit 47 Tuc model that matches various observations simultaneously, including the surface brightness profile,  the velocity dispersion profile, pulsar accelerations, and the number of different types of compact objects <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv211005495Y/abstract">(Ye+2021)</a>. 
 <br/><br/><br/>
 <!--&emsp;  (4 x &nbsp;)-->
