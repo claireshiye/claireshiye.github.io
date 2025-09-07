@@ -27,7 +27,7 @@ Gravitational waves have opened a new window into the Universe. Understanding th
 The inspiral of stellar-mass compact objects into central massive black holes also generates gravitational waves, which will be detectable with space-based observatories such as LISA. Scheduled to launch in about a decade, LISA will probe central massive black holes that are potential building blocks of supermassive black holes. For example, the inspiral of white dwarfs into central massive black holes in dense stellar systems could produce gravitational wave signals "visible" to LISA from distance of up to ~100 Mpc <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...953..141Y/abstract">(Ye+2023)</a>.  
 <br>
 
-<div style="text-align: center; font-size: 24px; margin: 20px 0;">
+<div style="font-size: 24px; margin: 20px 0; margin-left: auto; margin-right: auto;">
   ✨ &nbsp; &nbsp; ✨ &nbsp; &nbsp; ✨
 </div>
 
