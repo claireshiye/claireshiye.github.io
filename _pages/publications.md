@@ -5,11 +5,16 @@ title: "Publications"
 For a full list of my publications, see [NASA/ADS Library](https://ui.adsabs.harvard.edu/user/libraries/ThMDd8GpQ6a_fIzd89jadg)
 
 ### First- and Second-Author Papers:
+0. Fast Radio Bursts from White Dwarf Binary Mergers: Isolated and Triple-induced Channels<br>
+C. Shariat (grad student), __C. S. Ye__, S. Naoz et al. 2026, [ApJL, 1000, L17](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..17S/abstract)<br>
+* Highlighted by AAS Nova [Triple Double](https://aasnova.org/2026/03/24/triple-double-do-merging-white-dwarfs-produce-fast-radio-burst-emitting-remnants/) 
+
 0. Mass Distribution of Binary Black Hole Mergers from Young and Old Dense Star Clusters<br>
-__C. S. Ye__, M. Fishbach, K. Kremer, M. Reina-Campos 2025, [arXiv:2507.07183](https://ui.adsabs.harvard.edu/abs/2025arXiv250707183Y/abstract)
+__C. S. Ye__, M. Fishbach, K. Kremer, M. Reina-Campos 2025, [ApJ, 997, 267](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..267Y/abstract)
 
 0. Gravitational-wave kicks impact spins of black holes from hierarchical mergers<br>
-A. Borchers (grad student), __C. S. Ye__, M. Fishbach 2025, [ApJ, 987, 146](https://ui.adsabs.harvard.edu/abs/2025ApJ...987..146B/abstract)
+A. Borchers (grad student), __C. S. Ye__, M. Fishbach 2025, [ApJ, 987, 146](https://ui.adsabs.harvard.edu/abs/2025ApJ...987..146B/abstract)<br>
+* Highlighted by AAS Nova [Black Hole Tango](https://aasnova.org/2025/07/29/the-black-hole-tango-kicks-and-spins-in-hierarchical-mergers/)
 
 0. Predicting the rate of fast radio bursts in globular clusters from binary black hole observations<br>
 A. Rao (undergrad student), __C. S. Ye__, M. Fishbach 2024, [ApJL, 979, L12](https://ui.adsabs.harvard.edu/abs/2025ApJ...979L..12R/abstract)
@@ -18,7 +23,8 @@ A. Rao (undergrad student), __C. S. Ye__, M. Fishbach 2024, [ApJL, 979, L12](htt
 K. Kremer, __C. S. Ye__, C. Heinke et al. 2024, [ApJL, 977, L42](https://ui.adsabs.harvard.edu/abs/2024ApJ...977L..42K/abstract)
 
 0. Lower-mass-gap Black Holes in Dense Star Clusters<br>
-__C. S. Ye__, K. Kremer, S. Ransom, F. Rasio 2024, [ApJ, 975, 77](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...77Y/abstract)
+__C. S. Ye__, K. Kremer, S. Ransom, F. Rasio 2024, [ApJ, 975, 77](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...77Y/abstract)<br>
+* Highlighted by AAS Nova [Gravitational Wave Predictions and Comparisons](https://aasnova.org/2024/11/27/monthly-roundup-gravitational-wave-predictions-and-comparisons/)
 
 0. The Redshift Evolution of the Binary Black Hole Mass Distribution from Dense Star Clusters<br>
 __C. S. Ye__, M. Fishbach 2024, [ApJ, 967, 62](https://ui.adsabs.harvard.edu/abs/2024ApJ...967...62Y/abstract)
