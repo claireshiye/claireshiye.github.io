@@ -68,14 +68,15 @@ __C. S. Ye__, K. Kremer, S. Chatterjee, C. Rodriguez, F. Rasio 2019, [ApJ, 877, 
 K. Kremer, __C. S. Ye__, S. Chatterjee, C. Rodriguez, F. Rasio 2018, [ApJL, 855, L15](https://ui.adsabs.harvard.edu/abs/2018ApJ...855L..15K)
 
 
-### Matching Milky Way globular clusters:
+### Matching Milky Way globular clusters
 0. Compact Object Modeling in the Globular Cluster 47 Tucanae<br>
 __C. S. Ye__, K. Kremer, C. Rodriguez et al. 2021, [ApJ, 931, 84](https://ui.adsabs.harvard.edu/abs/2022ApJ...931...84Y/abstract)
 
 0. Modeling Dense Star Clusters in the Milky Way and Beyond with the CMC Cluster Catalog<br>
 K. Kremer, __C. S. Ye__, N. Rui, N. Weatherford et al. 2020, [ApJS, 247, 4](https://ui.adsabs.harvard.edu/abs/2020ApJS..247...48K)
+<!--
 {: reversed="reversed"}
-
+-->
 
 <!--
 1. Modeling Dense Star Clusters in the Milky Way and Beyond with the Cluster Monte Carlo Code<br>
