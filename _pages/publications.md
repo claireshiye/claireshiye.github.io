@@ -74,6 +74,7 @@ __C. S. Ye__, K. Kremer, C. Rodriguez et al. 2021, [ApJ, 931, 84](https://ui.ads
 
 0. Modeling Dense Star Clusters in the Milky Way and Beyond with the CMC Cluster Catalog<br>
 K. Kremer, __C. S. Ye__, N. Rui, N. Weatherford et al. 2020, [ApJS, 247, 4](https://ui.adsabs.harvard.edu/abs/2020ApJS..247...48K)
+
 <!--
 {: reversed="reversed"}
 -->
