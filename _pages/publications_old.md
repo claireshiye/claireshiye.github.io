@@ -4,9 +4,11 @@ title: "Publications"
 ---
 For a full list of my publications, see [NASA/ADS Library](https://ui.adsabs.harvard.edu/user/libraries/ThMDd8GpQ6a_fIzd89jadg)
 
-## First- and Second-Author Papers:
+### First- and Second-Author Papers:
+0. Fast Radio Bursts from White Dwarf Binary Mergers: Isolated and Triple-induced Channels<br>
+C. Shariat (grad student), __C. S. Ye__, S. Naoz et al. 2026, [ApJL, 1000, L17](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..17S/abstract)<br>
+* Highlighted by AAS Nova [Triple Double](https://aasnova.org/2026/03/24/triple-double-do-merging-white-dwarfs-produce-fast-radio-burst-emitting-remnants/) 
 
-### Gravitational wave sources
 0. Mass Distribution of Binary Black Hole Mergers from Young and Old Dense Star Clusters<br>
 __C. S. Ye__, M. Fishbach, K. Kremer, M. Reina-Campos 2025, [ApJ, 997, 267](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..267Y/abstract)
 
@@ -14,37 +16,18 @@ __C. S. Ye__, M. Fishbach, K. Kremer, M. Reina-Campos 2025, [ApJ, 997, 267](http
 A. Borchers (grad student), __C. S. Ye__, M. Fishbach 2025, [ApJ, 987, 146](https://ui.adsabs.harvard.edu/abs/2025ApJ...987..146B/abstract)<br>
 * Highlighted by AAS Nova [Black Hole Tango](https://aasnova.org/2025/07/29/the-black-hole-tango-kicks-and-spins-in-hierarchical-mergers/)
 
-0. The Redshift Evolution of the Binary Black Hole Mass Distribution from Dense Star Clusters<br>
-__C. S. Ye__, M. Fishbach 2024, [ApJ, 967, 62](https://ui.adsabs.harvard.edu/abs/2024ApJ...967...62Y/abstract)
-
-0. On the Rate of Neutron Star Binary Mergers from Globular Clusters<br>
-__C. S. Ye__, W-f. Fong, K. Kremer et al. 2020, [ApJL, 888, L10](https://ui.adsabs.harvard.edu/abs/2020ApJ...888L..10Y)
-
-
-### Fast radio burst sources
-0. Fast Radio Bursts from White Dwarf Binary Mergers: Isolated and Triple-induced Channels<br>
-C. Shariat (grad student), __C. S. Ye__, S. Naoz et al. 2026, [ApJL, 1000, L17](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..17S/abstract)<br>
-* Highlighted by AAS Nova [Triple Double](https://aasnova.org/2026/03/24/triple-double-do-merging-white-dwarfs-produce-fast-radio-burst-emitting-remnants/) 
-
 0. Predicting the rate of fast radio bursts in globular clusters from binary black hole observations<br>
 A. Rao (undergrad student), __C. S. Ye__, M. Fishbach 2024, [ApJL, 979, L12](https://ui.adsabs.harvard.edu/abs/2025ApJ...979L..12R/abstract)
 
-
-### Disrupted dense star clusters and stellar streams
-0. Inferring Globular Cluster Initial Mass Function from Stellar Streams<br>
-__C. S. Ye__, R. Carlberg 2026, [ApJL, 1007, L25](https://iopscience.iop.org/article/10.3847/2041-8213/ae8d0f)
-
-0. The Contribution of Disrupted Dense Star Clusters to Gaia's Compact Object Binaries<br>
-A. Schiebelbein-Zwack (grad student), __C. S. Ye__, M. Reina-Campos et al. 2026, [arXiv:2606.18419](https://scixplorer.org/abs/2026arXiv260618419S/abstract)
-
-
-### Pulsars and black holes in dense star clusters 
 0. Can slow pulsars in Milky Way globular clusters form via partial recycling?<br>
 K. Kremer, __C. S. Ye__, C. Heinke et al. 2024, [ApJL, 977, L42](https://ui.adsabs.harvard.edu/abs/2024ApJ...977L..42K/abstract)
 
 0. Lower-mass-gap Black Holes in Dense Star Clusters<br>
 __C. S. Ye__, K. Kremer, S. Ransom, F. Rasio 2024, [ApJ, 975, 77](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...77Y/abstract)<br>
 * Highlighted by AAS Nova [Gravitational Wave Predictions and Comparisons](https://aasnova.org/2024/11/27/monthly-roundup-gravitational-wave-predictions-and-comparisons/)
+
+0. The Redshift Evolution of the Binary Black Hole Mass Distribution from Dense Star Clusters<br>
+__C. S. Ye__, M. Fishbach 2024, [ApJ, 967, 62](https://ui.adsabs.harvard.edu/abs/2024ApJ...967...62Y/abstract)
 
 0. The dominant mechanism(s) for populating the outskirts of star clusters with neutron star binaries<br>
 N. Leigh, __C. S. Ye__, S. Grondin et al. 2024, [MNRAS, 527, 6913](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.6913L/abstract)
@@ -61,19 +44,20 @@ __C. S. Ye__ & G. Fragione 2022, [ApJ, 940, 162](https://ui.adsabs.harvard.edu/a
 0. Formation of Low-mass Black Holes and Single Millisecond Pulsars in Globular Clusters<br>
 K. Kremer, __C. S. Ye__, F. Kıroğlu et al. 2022, [ApJL, 934, L1](https://ui.adsabs.harvard.edu/abs/2022ApJ...934L...1K/abstract)
 
-0. Millisecond Pulsars and Black Holes in Globular Clusters<br>
-__C. S. Ye__, K. Kremer, S. Chatterjee, C. Rodriguez, F. Rasio 2019, [ApJ, 877, 122](https://ui.adsabs.harvard.edu/abs/2019ApJ...877..122Y/abstract)
-
-0. How Black Holes Shape Globular Clusters: Modeling NGC 3201<br>
-K. Kremer, __C. S. Ye__, S. Chatterjee, C. Rodriguez, F. Rasio 2018, [ApJL, 855, L15](https://ui.adsabs.harvard.edu/abs/2018ApJ...855L..15K)
-
-
-### Matching Milky Way globular clusters:
 0. Compact Object Modeling in the Globular Cluster 47 Tucanae<br>
 __C. S. Ye__, K. Kremer, C. Rodriguez et al. 2021, [ApJ, 931, 84](https://ui.adsabs.harvard.edu/abs/2022ApJ...931...84Y/abstract)
 
 0. Modeling Dense Star Clusters in the Milky Way and Beyond with the CMC Cluster Catalog<br>
 K. Kremer, __C. S. Ye__, N. Rui, N. Weatherford et al. 2020, [ApJS, 247, 4](https://ui.adsabs.harvard.edu/abs/2020ApJS..247...48K)
+
+0. On the Rate of Neutron Star Binary Mergers from Globular Clusters<br>
+__C. S. Ye__, W-f. Fong, K. Kremer et al. 2020, [ApJL, 888, L10](https://ui.adsabs.harvard.edu/abs/2020ApJ...888L..10Y)
+
+0. Millisecond Pulsars and Black Holes in Globular Clusters<br>
+__C. S. Ye__, K. Kremer, S. Chatterjee, C. Rodriguez, F. Rasio 2019, [ApJ, 877, 122](https://ui.adsabs.harvard.edu/abs/2019ApJ...877..122Y/abstract)
+
+0. How Black Holes Shape Globular Clusters: Modeling NGC 3201<br>
+K. Kremer, __C. S. Ye__, S. Chatterjee, C. Rodriguez, F. Rasio 2018, [ApJL, 855, L15](https://ui.adsabs.harvard.edu/abs/2018ApJ...855L..15K)
 {: reversed="reversed"}
 
 
