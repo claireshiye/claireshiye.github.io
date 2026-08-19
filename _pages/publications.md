@@ -1,6 +1,8 @@
 ---
 permalink: /publications/
 title: "Publications"
+toc: true
+toc_sticky: true
 ---
 For a full list of my publications, see [NASA/ADS Library](https://ui.adsabs.harvard.edu/user/libraries/ThMDd8GpQ6a_fIzd89jadg)
 
