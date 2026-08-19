@@ -6,7 +6,7 @@ toc_sticky: true
 ---
 For a full list of my publications, see [NASA/ADS Library](https://ui.adsabs.harvard.edu/user/libraries/ThMDd8GpQ6a_fIzd89jadg)
 
-## First- and Second-Author Papers:
+## First- and Second-Author Papers: {: .no_toc}
 
 ### Gravitational wave sources
 0. Mass Distribution of Binary Black Hole Mergers from Young and Old Dense Star Clusters<br>
@@ -40,7 +40,7 @@ __C. S. Ye__, R. Carlberg 2026, [ApJL, 1007, L25](https://iopscience.iop.org/art
 A. Schiebelbein-Zwack (grad student), __C. S. Ye__, M. Reina-Campos et al. 2026, [arXiv:2606.18419](https://scixplorer.org/abs/2026arXiv260618419S/abstract)
 
 
-### Pulsars and black holes in dense star clusters 
+### Pulsar and black hole dynamics 
 0. Can slow pulsars in Milky Way globular clusters form via partial recycling?<br>
 K. Kremer, __C. S. Ye__, C. Heinke et al. 2024, [ApJL, 977, L42](https://ui.adsabs.harvard.edu/abs/2024ApJ...977L..42K/abstract)
 
