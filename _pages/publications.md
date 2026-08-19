@@ -6,7 +6,7 @@ toc_sticky: true
 ---
 For a full list of my publications, see [NASA/ADS Library](https://ui.adsabs.harvard.edu/user/libraries/ThMDd8GpQ6a_fIzd89jadg)
 
-## First- and Second-Author Papers: {: .no_toc}
+<span style="font-size:24px;">First- and Second-Author Papers:</span>
 
 ### Gravitational wave sources
 0. Mass Distribution of Binary Black Hole Mergers from Young and Old Dense Star Clusters<br>
